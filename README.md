@@ -26,9 +26,20 @@ Numbers of Nearest Neighbors](./article.pdf).
 ## Results
 the proposed kTree method has a similar running cost but higher
 classification accuracy, compared with traditional kNN methods. k*tree reduces running cost of test stage with same accuracy of ktree or more than ktree.
-Some comparition in term od runtime and accuracy is shown on two dataset:
+Some comparition in term of runtime and accuracy is shown on two dataset:
+</br>
 <div align="center">
-  <img src="./plots/Figure 2021-05-14 043717.png" width="50%">
-  <img src="./plots/Figure 2021-05-14 043751.png" width="50%">
-  <img src="./plots/Figure 2021-05-14 043810.png" width="50%">
+  <img src="./plots/p3.PNG" width="40%">
+  <img src="./plots/p4.PNG" width="40%">
 </div>
+<div align="center">
+  <img src="./plots/p1.PNG" width="40%">
+  <img src="./plots/p2.PNG" width="40%">
+</div>
+
+### Accuracies
+<div align="center">
+  
+  <img src="./plots/p5.PNG" width="70%">
+</div>
+
